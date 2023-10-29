@@ -1,0 +1,20 @@
+{
+  "name": "selenium-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha scenario/*.js --timeout 20000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^118.0.1",
+    "geckodriver": "^4.2.1",
+    "selenium-webdriver": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}

@@ -1,0 +1,14 @@
+# Selenium-JS
+
+## Description
+This is a Automation Test to fulfil the Xtramile QA recruitment process.
+
+## Pre- Installation
+Make sure you have node.js and npm installed in your computer
+
+## Installation
+```npm i```
+
+## Run the tests
+```npm run test```
+
